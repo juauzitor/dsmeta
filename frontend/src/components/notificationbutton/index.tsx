@@ -1,4 +1,4 @@
-import icon from '/home/joao/Documents/Projects/dsmeta/frontend/src/assets/img/notification-icon.svg';
+import icon from '../../assets/img/notification-icon.svg';
 import './styles.css'
 
 function NotificationButton() {
